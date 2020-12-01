@@ -1,0 +1,13 @@
+C:\Users\luke\Downloads\SimpleTwitchBot-master\SimpleTwitchBot-master\TwitchBot\bin\Debug\netcoreapp3.1\TwitchBot.exe
+C:\Users\luke\Downloads\SimpleTwitchBot-master\SimpleTwitchBot-master\TwitchBot\bin\Debug\netcoreapp3.1\TwitchBot.deps.json
+C:\Users\luke\Downloads\SimpleTwitchBot-master\SimpleTwitchBot-master\TwitchBot\bin\Debug\netcoreapp3.1\TwitchBot.runtimeconfig.json
+C:\Users\luke\Downloads\SimpleTwitchBot-master\SimpleTwitchBot-master\TwitchBot\bin\Debug\netcoreapp3.1\TwitchBot.runtimeconfig.dev.json
+C:\Users\luke\Downloads\SimpleTwitchBot-master\SimpleTwitchBot-master\TwitchBot\bin\Debug\netcoreapp3.1\TwitchBot.dll
+C:\Users\luke\Downloads\SimpleTwitchBot-master\SimpleTwitchBot-master\TwitchBot\bin\Debug\netcoreapp3.1\TwitchBot.pdb
+C:\Users\luke\Downloads\SimpleTwitchBot-master\SimpleTwitchBot-master\TwitchBot\obj\Debug\netcoreapp3.1\TwitchBot.csprojAssemblyReference.cache
+C:\Users\luke\Downloads\SimpleTwitchBot-master\SimpleTwitchBot-master\TwitchBot\obj\Debug\netcoreapp3.1\TwitchBot.AssemblyInfoInputs.cache
+C:\Users\luke\Downloads\SimpleTwitchBot-master\SimpleTwitchBot-master\TwitchBot\obj\Debug\netcoreapp3.1\TwitchBot.AssemblyInfo.cs
+C:\Users\luke\Downloads\SimpleTwitchBot-master\SimpleTwitchBot-master\TwitchBot\obj\Debug\netcoreapp3.1\TwitchBot.csproj.CoreCompileInputs.cache
+C:\Users\luke\Downloads\SimpleTwitchBot-master\SimpleTwitchBot-master\TwitchBot\obj\Debug\netcoreapp3.1\TwitchBot.dll
+C:\Users\luke\Downloads\SimpleTwitchBot-master\SimpleTwitchBot-master\TwitchBot\obj\Debug\netcoreapp3.1\TwitchBot.pdb
+C:\Users\luke\Downloads\SimpleTwitchBot-master\SimpleTwitchBot-master\TwitchBot\obj\Debug\netcoreapp3.1\TwitchBot.genruntimeconfig.cache
